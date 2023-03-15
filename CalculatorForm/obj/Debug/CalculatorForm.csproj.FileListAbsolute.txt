@@ -1,0 +1,30 @@
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\bin\Debug\CalculatorForm.exe
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\bin\Debug\CalculatorForm.pdb
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\bin\Debug\TestApp.exe
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\bin\Debug\TestApp.pdb
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\bin\Debug\TestApp.exe.config
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.csproj.AssemblyReference.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.Form1.resources
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.csproj.CopyComplete
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.exe
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\CalculatorForm\obj\Debug\CalculatorForm.pdb
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\bin\Debug\CalculatorForm.exe
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\bin\Debug\CalculatorForm.pdb
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\bin\Debug\TestApp.exe
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\bin\Debug\TestApp.pdb
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\bin\Debug\TestApp.exe.config
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.csproj.AssemblyReference.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.Form1.resources
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.csproj.CopyComplete
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.exe
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\CalculatorForm\obj\Debug\CalculatorForm.pdb

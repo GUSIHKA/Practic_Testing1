@@ -1,0 +1,24 @@
+C:\Users\Eduard\Desktop\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Eduard\Desktop\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Eduard\Desktop\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Eduard\Desktop\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Eduard\Desktop\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduard\Desktop\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Eduard\Desktop\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Eduard\Desktop\УП\Тестирование\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\bin\Debug\TestApp.exe
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\obj\Debug\TestApp.exe
+C:\Users\Danii\OneDrive\Рабочий стол\Practice_Testing_Week1-master\TestApp\obj\Debug\TestApp.pdb
